@@ -1,4 +1,7 @@
 **Project Overview:**
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/67511e8a-2bcd-4d0e-9584-bdc931d9fa20" />
+
+
 
 This repository contains a comprehensive exploratory data analysis (EDA) project focused on understanding the patterns and drivers behind credit scores. Credit scoring is a vital component in financial services, determining the creditworthiness of individuals and influencing lending decisions.
 
@@ -25,6 +28,9 @@ Through detailed analysis of customer demographics, loan types, payment behavior
 -Multivariate Analysis: Complex patterns and interactions among multiple financial features visualized using heatmaps, pair plots, and bubble charts.
 
 -Actionable Insights: Interpretation of findings with implications for credit risk evaluation, product development, and targeted marketing strategies.
+
+<img width="793" height="528" alt="image" src="https://github.com/user-attachments/assets/2465131b-6b13-44c3-9517-bfbf44c8719c" />
+
 
 **Project Structure:**
 
