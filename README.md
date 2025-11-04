@@ -1,4 +1,5 @@
 **Paisabazaar Banking Fraud Analysis**
+
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/67511e8a-2bcd-4d0e-9584-bdc931d9fa20" />
 
 
